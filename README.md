@@ -1,8 +1,8 @@
 # TimVannerson.com
 Hello there.
 
-- Frameworks
-- Say Hello
+- [Frameworks](frameworks.md)
+- [Say Hello](mailto:sayhello@timvanenrson.com)
 
 <!--
 **TimVannerson/timvannerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
