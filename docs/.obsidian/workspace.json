@@ -168,9 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb79c41a2c91dd38",
+  "active": "151f0b72214f9299",
   "lastOpenFiles": [
-    "Private/TestPrivate.md",
-    "Frameworks.md"
+    "Transparency.md",
+    "Frameworks.md",
+    "Intention.md",
+    "index.md",
+    "Private/TestPrivate.md"
   ]
 }
