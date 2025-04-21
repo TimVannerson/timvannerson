@@ -1,6 +1,3 @@
 theme: minima
 minima:
   skin: dark
-  nav_pages:
-    - about.md
-    - linkedin.md
