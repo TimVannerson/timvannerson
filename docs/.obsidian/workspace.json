@@ -170,11 +170,14 @@
   },
   "active": "eb79c41a2c91dd38",
   "lastOpenFiles": [
+    "_layouts/page.html",
+    "_layouts/base.html",
+    "_layouts",
     "_config.yml",
     "Transparency.md",
     "Frameworks.md",
     "Intention.md",
     "index.md",
-    "Private/TestPrivate.md"
+    "_Private/TestPrivate.md"
   ]
 }
