@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # TimVannerson.com
 Hello there.
 
