@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /frameworks/
+---
+
 # Frameworks
 Whether you call them frameworks, mental models, heuristics, protocols, principles, core beliefs, or something else, most of us have a set of cognitive shortcuts we rely on, either consciously or otherwise.
 
