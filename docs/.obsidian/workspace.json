@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frameworks"
+              "title": "index"
             }
           }
         ]
@@ -168,14 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb79c41a2c91dd38",
+  "active": "151f0b72214f9299",
   "lastOpenFiles": [
+    "_layouts/home.html",
+    "CNAME",
+    "_includes",
+    "untitled folder",
+    "Frameworks.md",
     "_layouts/page.html",
     "_layouts/base.html",
     "_layouts",
     "_config.yml",
     "Transparency.md",
-    "Frameworks.md",
     "Intention.md",
     "index.md",
     "_Private/TestPrivate.md"
